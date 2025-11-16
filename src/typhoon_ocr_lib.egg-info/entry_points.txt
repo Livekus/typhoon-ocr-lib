@@ -1,0 +1,2 @@
+[console_scripts]
+typhoon-ocr = typhoon_ocr_lib.cli:main

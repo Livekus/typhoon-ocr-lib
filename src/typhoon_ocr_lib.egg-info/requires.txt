@@ -1,0 +1,5 @@
+typhoon-ocr>=0.1.0
+pydantic>=2.6.0
+
+[dev]
+pytest
