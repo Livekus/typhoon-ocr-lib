@@ -446,6 +446,6 @@ cd ./typhoon_ocr_lib
 ```md
 ![Master transcript](https://github.com/Livekus/typhoon-ocr-lib/blob/master/master.jpg)
 
-[OCR result (master_ocr.md)](master_ocr.md)
+[OCR result (master_ocr.md)](https://github.com/Livekus/typhoon-ocr-lib/blob/master/master_ocr.md)
 ```
 
